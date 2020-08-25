@@ -3,7 +3,6 @@ version: 0.1
 phases:
   install:
     commands:
-      - cd tic-tac-toe
       - npm install
   build:
     commands:
